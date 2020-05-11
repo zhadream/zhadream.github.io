@@ -1,0 +1,57 @@
+p, h1 {
+    color: red;
+    text-align: center;
+}
+h1{
+    color: blue;
+    margin: 10px;
+    padding: 20px;
+    text-shadow: 3px 3px 1px black;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    /* border: 5px solid black; */
+    text-align: center;
+}
+#spw{
+    color: aqua;
+}
+.gennal{
+    color: blueviolet;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+html {
+    background-color: #00539F;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(235, 183, 112);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+/* div{
+    background-color: slategrey;
+    border-color: crimson;
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px;
+    margin: 3px;
+} */
+#ground{
+    background-color: slategrey;
+    border-color: crimson;
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px;
+    margin: 3px;
+}
+/* .ground{
+    background-color: slategrey;
+    border-color: crimson;
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px;
+    margin: 3px;
+} */
